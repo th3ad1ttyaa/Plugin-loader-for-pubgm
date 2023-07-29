@@ -43,6 +43,7 @@ android {
 }
 
 dependencies {
+    //Test
     implementation 'com.google.android.material:material:1.6.1'
     implementation "com.github.topjohnwu.libsu:core:2.5.0"
     implementation 'com.github.MatteoBattilana:WeatherView:3.0.0'
